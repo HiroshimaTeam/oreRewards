@@ -14,8 +14,11 @@
 
 FormAPI: https://poggit.pmmp.io/p/FormAPI/1.3.0
 
-![OreRewardsConfig](https://user-images.githubusercontent.com/65712904/110148419-13e5be00-7ddd-11eb-9a58-97e2fa9f5663.PNG)
+![OreRewardsConfig (1)](https://user-images.githubusercontent.com/65712904/110148996-ccabfd00-7ddd-11eb-8921-b0fba98aad4b.png)
 
+---
+### Command: 
+```/reward``` | Open UI and recover rewards
 
 ---
 ### **This plugin was tested (and works) on:**
