@@ -1,4 +1,4 @@
-# oreRewards
+# OreRewards
 ---
 ### About
 ![OreRewards (1)](https://user-images.githubusercontent.com/65712904/110148695-6cb55680-7ddd-11eb-9c2e-91c72b132aea.png)
