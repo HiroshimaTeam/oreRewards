@@ -8,11 +8,12 @@
 
 ---
 ### How to use
-[ENG] Configure in config.yml texts and reward by ore. This plugin requires FormAPI</br>
+[ENG] Configure in config.yml texts and reward by ore. This plugin requires FormAPI and EconomyAPI</br>
 
-[FRA] Configurer dans le config.yml les textes et les récompenses par minerai. Ce plugin fonctionne avec FormAPI</br>
+[FRA] Configurer dans le config.yml les textes et les récompenses par minerai. Ce plugin fonctionne avec FormAPI et EconomyAPI</br>
 
-FormAPI: https://poggit.pmmp.io/p/FormAPI/1.3.0
+FormAPI: https://poggit.pmmp.io/p/FormAPI/1.3.0 </br>
+EconomyAPI: https://poggit.pmmp.io/p/EconomyAPI/5.7.2
 
 ![OreRewardsConfig (1)](https://user-images.githubusercontent.com/65712904/110148996-ccabfd00-7ddd-11eb-8921-b0fba98aad4b.png)
 
