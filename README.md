@@ -1,7 +1,7 @@
 # oreRewards
 ---
 ### About
-![OreRewards](https://user-images.githubusercontent.com/65712904/110148518-324bb980-7ddd-11eb-92a0-fabfc33ac7ff.png)
+![OreRewards (1)](https://user-images.githubusercontent.com/65712904/110148695-6cb55680-7ddd-11eb-9c2e-91c72b132aea.png)
 
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin to get money reward when you mine ore ! :grin:<br/><br/>
 [FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui permet d'avoir une récompense en money quand vous minez des minerais ! :grin:
