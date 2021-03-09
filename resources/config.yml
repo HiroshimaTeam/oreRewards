@@ -1,6 +1,5 @@
 ---
-# Welcome to oreRewards V1.0.0 !
-
+# Welcome to oreRewards V1.0.1 !
 
 # Command /reward
 description_command: "allows to see the total of its rewards withdrawn"
@@ -12,15 +11,17 @@ Button_1_ui: "§4remove"
 Button_2_ui: "§6let"
 
 message_remove_rewards: "§a{amount} §6euros was added to your money"
-message_not_reward: "§4You have any reward !"
+message_not_reward: "§4You haven't got any reward !"
 
 # 1 = 1$
 # 1000 = 1000$
-Stone: 1
-Coal: 10
-Iron_ore: 50
-Gold_ore: 100
-Lapis_ore: 150
-Diamond_ore: 200
-Emerald_ore: 500
+# USAGE: "ID:DAMAGE": AMOUNT
+Rewards:
+  "1:0": 1
+  "16:0": 10
+  "15:0": 50
+  "14:0": 100
+  "21:0": 150
+  "56:0": 200
+  "129:0": 500
 ...
